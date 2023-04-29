@@ -1,0 +1,432 @@
+Đèn Led phát sáng là do:
+Nguyên lý cảm ứng điện tử
+Hiện tượng phát sáng của chất bán dẫn
+Điện tử chuyển từ lớp có năng lượng cao sang lớp có năng lượng thấp hơn
+Sự phát sáng từ vật có nhiệt độ cao
+
+Năng lượng ion hóa là năng lượng cần thiết để …. 
+Kích thích nguyên tử
+Kết hợp 2 nguyên tử
+Phá vỡ nguyên tử
+Tách rời điện tử khỏi nguyên tử
+ 
+Tính dẽo của polymer là do…
+Liên kết ion
+Liên kết kim loại
+Liên kết Van der Waals
+Liên kết cộng hóa trị
+ 
+Bán kính quĩ đạo chuyển động của điện tử được xác định …. 
+Từ số lớp vỏ điện tử
+Từ bán kính của hạt nhân
+Từ sự cân bằng giữa lực hút từ hạt nhân và lực ly tâm
+Từ sự cân bằng giữa lực mạnh và lực đẩy tĩnh điện
+ 
+Liên kết giữa hai mạch phân tử trong polymer là …
+Liên kết Van der waal
+Liên kết cộng hóa trị
+Liên kết ion
+Liên kết kim loại
+ 
+Chất  dẫn điện là chất …
+Có vùng hóa trị chồng lấp lên vùng dẫn
+Có vùng cấm nhỏ
+Có điện trở suất lớn
+Có vùng cấm lớn
+ 
+Năng lượng của hệ thống liên kết được tạo nên từ 2 nguyên tử…. tổng năng lượng của hai nguyên tử riêng rẽ.
+Lớn gấp 2 lần
+Lớn hơn
+Bằng
+Nhỏ hơn
+ 
+Mô hình nguyên tử chính xác nhất đến thời điểm hiện tại là...*
+Mô hình lượng tử
+Mô hình hành tinh
+Mô hình nguyên tử Bohr
+Mô hình Bohr cải tiến
+ 
+Điện tử hóa trị …. trong tương tác giữa các nguyên tử cũng như phản ứng hóa học.  
+Không tham gia
+Đóng vai trò quan trọng
+Có năng lượng cao nhất
+Tập trung ở lớp vỏ ngoài cùng
+ 
+Theo lý thuyết phân vùng năng lượng, chất cách điện là chất ....
+Không có vùng cấm
+Dẫn điện ở nhiệt độ rất thấp
+Vùng cấm và vùng dẫn chống lấn lên nhau
+Có vùng cấm lớn
+ 
+NaCl dễ hòa tan vào nước là do:
+Nước là chất có cực tính được tạo nên từ liên kết cộng hóa trị
+Tất cả đều đúng
+Tất cả đều sai
+NaCl là chất được tạo nên từ liên kết ion
+ 
+Kim loại có tính dẽo và dẫn điện tốt là do:
+Tồn tại liên kết Van der Waals
+Tồn tại điện tử tự do
+Có nhiều điện tử ở lớp ngoài cùng
+Tất cả đều sai
+ 
+Vật liệu điện có thể phân loại dựa vào:
+Giá thành của vật liệu
+Tất cả đều đúng
+Khả năng cách nhiệt
+Điện trở suất của vật liệu
+ 
+Liên kết giữa C và H trong phân tử CH4 là liên kết:
+Liên kết kim loại
+Liên kết Van der Waals
+Cộng hoá trị
+Liên kết ion
+ 
+Than chì dẫn điện là do:
+Liên kết cộng hóa trị giữa các nguyên tử C
+Liên kết ion giữa các nguyên tử C
+Một số điện tử có thể dịch chuyển giữa các lớp mạng tinh thể
+Liên kết yếu giữa các nguyên tử C
+ 
+Dựa vào độ từ tính, vật liệu được chia thành...
+Từ tính và không có từ tính
+Vật liệu thuận từ, nghịch từ và sắt từ
+Bị oxy hóa và không bị oxy hóa
+Dẫn điện và cách điện
+
+Mật độ dòng điện chạy trong kim loại phụ thuộc vào…
+Tất cả đều đúng
+Cường độ điện trường
+Mật độ điện tử tự do
+Phụ thuộc vào độ linh động điện tích của điện tử
+ 
+Hợp kim của đồng bao gồm:
+Đồng và đồng thau
+Các hợp kim khác
+Đồng thau, đồng thanh và đồng đen
+Đồng thau và đồng thanh
+ 
+Điện trở suất đặc trưng cho....
+Độ cản trở dòng điện của khối vật liệu
+Tất cả đều sai
+Độ cản trở dòng điện của vật liệu
+Dòng rò của vật liệu
+ 
+Điện trở suất của kim loại ……
+Tăng khi nhiệt độ tăng
+Tăng khi mật độ dòng điện giảm
+Tăng khi điện áp tăng
+Tăng khi tiết diện vật dẫn tăng
+ 
+Điện trở Shunt dùng để....
+Đo dòng DC
+Đo điện áp
+Đo công suất
+Đo dòng AC
+ 
+Vật liệu sẽ bị phá hủy khi....
+Ứng suất gấp đôi độ bền
+Ứng suất tăng đến độ bền
+Một giá trị khác
+Ứng suất nhỏ hơn độ bền
+ 
+Độ dẫn nhiệt của kim loại là do …..
+Tất cả đều đúng
+Sự va chạm giữa ion dương tại nút mạng tinh thể và điện tử tự do
+Chuyển động của các điện tử tự do
+Dao động của các ion dương tại nút mạng tinh thể
+ 
+Cặp nhiệt ngẫu bao gồm:
+Hai kim loại khác nhau
+Một kim loại và một phi kim
+Hai kim loại giống nhau
+Hai phi kim
+ 
+Than kỹ thuật điện được sử dụng làm....
+Điện cực trong lò luyện kim hồ quang
+Chổi than của máy điện
+Điện cực trong pin
+Tất cả đều đúng
+ 
+Điện tử tự do trong kim loại ....
+Chuyển động chậm dần đều giữa hai lần va chạm
+Chuyển động nhanh dần đều giữa hai lần va chạm
+Chuyển động với vận tốc không đổi
+Tất cả đều sai
+ 
+Hợp kim của đồng được sử dụng khi....
+Cần độ bền cơ cao hơn đồng nguyên chất
+Cần độ dẽo cao hơn đồng nguyên chất
+Cần tiết kiệm chi phí
+Cần giảm khối lượng
+ 
+Bản chất của sự dẫn điện trong chất điện phân là do ……
+Sự chuyển động của điện tử tự do
+Sự đối lưu
+Sự chuyển động của tạp chất
+Sự chuyển động của các ion
+ 
+Kim loại có độ dẫn điện tốt nhất là:
+Nhôm
+Đồng
+Bạc
+Vàng
+ 
+Khối kim loại được gia công bằng phương pháp cán/kéo nóng sẽ có...
+Độ giãn dài nhỏ
+Tất cả đều sai
+Tính dẽo cao
+Độ bền cơ cao
+ 
+Nhôm được sử dụng thay đồng làm dây dẫn điện trên không là do....
+Nhôm dễ hàn nối hơn đồng
+Nhôm có khả năng chống oxy hóa tốt hơn đồng
+Nhôm nhẹ và rẻ hơn đồng
+Nhôm cứng hơn đồng
+ 
+Khối kim loại được gia công bằng phương pháp cán/kéo nguội sẽ có...
+Độ giãn dài lớn
+Độ bền cơ cao
+Tính dẽo cao
+Tất cả đều sai
+ 
+Kim loại dẫn điện tốt là do....
+Sự dịch chuyển của ion âm
+Sự dịch chuyển của ion dương
+Tồn tại điện tích liên kết
+Tồn tại điện tử tự do
+ 
+Ứng suất cơ học xuất hiện trong vật liệu khi...
+Có tác động của lực cơ học
+Gia nhiệt
+Làm mát
+Phá vỡ khối vật liệu
+ 
+Tỉ số giữa độ dẫn nhiệt và độ dẫn điện tại một giá trị nhiệt độ …. 
+Phụ thuộc điện áp
+Không phụ thuộc nhiệt độ
+Xấp xỉ bằng nhau đối với một số kim loại thông thường
+Khác nhau đối với các kim loại khác nhau
+ 
+Điện tử tự do trong kim loại ....
+Chậm dần đều
+Chịu tác động của chuyển động nhiệt và điện trường ngoài
+Vận tốc không đổi
+Liên kết chặt chẽ với hạt nhân của nguyên tử của kim loại
+ 
+Điên tử tự do dịch chuyển trong mạng tinh thể kim loại dưới dạng....
+Dích dắc
+Chậm dần đều
+Tất cả đều sai
+Quỹ đạo thẳng
+
+Tổn hao điện môi bị ảnh hưởng bởi:
+Tần số của nguồn điện
+Tất cả đều đúng
+Nồng độ tạp chất
+Điện áp tác dụng
+ 
+Sự tồn tại điện tích bên trong tụ điện sau khi nạp là do hiện tượng....
+Cấp nguồn
+Phân cực
+Ion hóa
+Dẫn điện
+ 
+Phân cực điện tử ….
+Không làm xuất hiện điện tích ở bề mặt điện môi
+Gây ra tổn hao điện môi
+Phát sinh nhiệt lớn
+Có thời gian phân cực ngắn
+ 
+Tổn hao điện môi do điện áp xoay chiều gây ra..... tổn hao điện môi do điện áp một chiều gây ra.
+Bằng với
+Lớn hơn
+Không thể so sánh được
+Nhỏ hơn
+ 
+Tan delta của khối điện môi/cách điện có thể được đo bằng...
+Volt kế
+VOM
+Cầu đo Schering
+Ampere kế
+ 
+Cường độ điện trường do phân cực tạo nên sẽ…*
+Bằng với cường độ điện trường ngoài
+Nhỏ hơn cường độ điện trường ngoài
+Lớn hơn cường độ điện trường ngoài
+Cùng chiều với điện trường ngoài
+ 
+Sư phân cực là....dưới tác động của điện trường
+Sự định hướng của các lưỡng cực điện
+Phóng điện đánh thủng
+Tất cả đều đúng
+Dẫn điện
+ 
+Tổn hao điện môi được biểu diễn bằng..... 
+Một trong hai sơ đồ như trên
+Một tụ điện C nối song song điện trở R
+Tất cả đều sai
+Một tụ điện C nối nối tiếp điện trở R
+ 
+Điện dẫn …chiếm ưu thế trong chất cách điện lỏng chứa tạp chất ở điện trường thấp
+Điện tử và Ion
+Điện di và điện tử
+Ion và điện di
+Tất cả đều sai
+ 
+Phân cực lưỡng cực ….
+Không làm xuất hiện điện tích ở bề mặt điện môi
+Có thời gian phân cực ngắn
+Gây ra tổn hao điện môi
+Không gây ra tổn hao điện môi
+ 
+Nếu giữ điện áp đặt lên hai bản cực không đổi, điện tích trên bề mặt bản cực sẽ… khi điện môi rắn được đặt vào hai bản cực.
+Tăng
+Di chuyển vào điện môi rắn
+Giảm
+Không đổi
+ 
+Hằng số điện môi cho biết:
+Mức độ tổn hao của vật liệu
+Mức độ phản ứng hay phân cực của vật liệu
+Mức độ điện tích di chuyển từ bản cực vào vật liệu
+Mức độ tạp chất
+ 
+Khi đặt điện môi rắn vào trong điện trường thấp, điện môi sẽ bị…
+Kích thích
+Phóng điện
+Phân cực
+Ion hóa
+ 
+Khi tần số nguồn càng tăng thì hằng số điện môi của vật liệu cách điện....
+Càng giảm
+Thay đổi không đáng kể
+Càng tăng
+Không đổi
+ 
+Điện dẫn …chiếm ưu thế trong chất cách điện rắn ở điện trường thấp.
+Ion
+Điện di
+Tất cả đều sai
+Điện tử
+ 
+Điện dẫn …. chiếm ưu thế trong chất khí ở điện trường thấp.
+Điện di
+Điện tử
+Tất cả đều sai
+Ion
+
+Ưu điểm của chất cách điện rắn là...
+Độ bền cơ cao
+Có thể làm vật liệu kết cấu
+Tất cả đều đúng
+Độ bền điện cao
+ 
+SF6 là .....nên bị hạn chế sử dụng.
+Khí độc
+Khí dễ phân hủy
+Khí nhà kính
+Khí thân thiện môi trường
+ 
+XLPE được xem như là....
+Nhựa nhiệt dẻo
+Composite
+Nhựa đàn hồi nhiệt dẻo
+Nhựa nhiệt rắn
+ 
+Chức năng của vật liệu cách điện là....
+Tất cả đều đúng
+Nâng đỡ và định vị các bộ phận mang điện
+Ngăn cản dòng điện rò
+Ngăn chặn sự phóng điện
+ 
+Mica cách điện có các ưu điểm như...
+Chịu ẩm và kháng phóng điện cục bộ
+Độ bền điện cao
+Độ bền nhiệt cao
+Tất cả đều đúng
+ 
+Dầu máy biến áp hiện tại có nguồn gốc chủ yếu từ....
+Dầu thô
+Dầu thực vật
+Tất cả đều sai
+Dầu sinh học
+ 
+Nhược điểm của giấy cách điện là...
+Cấu trúc xốp
+Dễ hút ẩm
+Tất cả đều đúng
+Phải tẩm dầu
+ 
+Nhược điểm của sứ gốm và sứ thủy tinh là...
+Tất cả đều đúng
+Không bám ô nhiễm
+Không nứt
+Nặng và dễ vỡ
+ 
+Theo tiêu chuẩn IEC, vật liệu cách điện được phân chia theo....
+7 cấp độ chịu nhiệt
+7 cấp độ chịu lực
+Tất cả đều sai
+7 cấp độ chịu điện
+ 
+Sứ gốm và sứ thủy tinh có ưu điểm là....
+Không nứt
+Không bị lão hóa
+Tất cả đều đúng
+Không bám ô nhiễm
+ 
+Mica cách điện có thể được sử dụng tại...
+Cáp lực
+Máy biến áp
+Tất cả đều đúng
+Cuộn dây máy điện quay trung thế
+ 
+Không khí được sử dụng....
+Để cách điện đường dây trên không
+Tất cả đều đúng
+Ở nơi không có yêu cầu độ an toàn và thẩm mỹ cao
+Trong máy cắt khí nén
+ 
+Độ bền điện của chất cách điện khí....
+Tăng không giới hạn theo áp suất
+Sẽ bão hòa khi áp suất quá cao
+Không đổi theo áp suất
+Giảm theo áp suất
+ 
+XLPE được sử dụng trong cáp trung và cao áp thay cho PE là do...
+Có độ bền nhiệt cao
+Có điện trở suất cao
+Có tổn hao điện môi thấp
+Có độ bền điện cao
+ 
+Khí SF6 có các ưu điểm như....
+Độ bền điện cao
+Khả năng dập tắt hồ quang
+Tất cả đều đúng
+Trơ
+ 
+Khí SF6 được sử dụng ....
+Để cách điện đường dây trên không
+Để cách điện trong máy phát trung thế
+Máy cắt trung và cao thế
+Trong máy cắt chân không
+ 
+Cao su silicone được sử dụng làm lớp bọc bên ngoài của sứ composite là do...
+Silicone kỵ nước (không dính nước)
+Điện trở suất mặt cao
+Tất cả đều đúng
+Nhẹ hơn sứ gốm
+ 
+Nhựa nhiệt rắn (epoxy)....
+Có thể bị hóa dẻo nhiều lần khi gia nhiệt
+Tự hóa rắn khi tiếp xúc không khí
+Không thể bị hóa dẻo bằng nhiệt sau khi đóng rắn
+Tất cả đều sai
+ 
+Chất cách điện rắn có thể phân chia thành....
+Nhựa nhiệt dẻo, nhựa nhiệt rắn và composite
+Tất cả đều sai
+Vô cơ, hữu cơ và composite
+Vô cơ, hữu cơ và polymer tổng hợp
+

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple Quiz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+<style>
+    /* Style the questions container */
+    #questions {
+        margin-bottom: 20px;
+    }
+
+    /* Style the question title */
+    h2 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    /* Style the answer options */
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    input[type="radio"] {
+        margin-right: 10px;
+    }
+    #answer {
+        margin-top: 20px;
+        font-size: 1.2rem;
+    }
+</style>
+<body>
+	<div class="container card d-flex align-items-center" style="height: 100vh; margin-top: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+        <div class="row">
+          <div class="col-xs-12">
+            <div id="questions" style="margin: 20px;"></div>
+            <div class="d-flex">
+                <button id="back" class="btn btn-danger flex-fill" style="margin-right: 5px;">Back</button>
+                <button id="next" class="btn btn-primary flex-fill" style="margin-right: 5px;">Next</button>
+                <button id="submit" class="btn bg-success text-white flex-fill" style="display: none;">Submit</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    <script src="data.js"></script>
+	<script>
+        const submitButton = document.getElementById('submit');
+
+        const questionsContainer = document.getElementById('questions');
+        let currentQuestionIndex = 1;
+
+        function displayQuestion() {
+            const questionData = questionsData[`question${currentQuestionIndex}`];
+
+            const questionElement = document.createElement('div');
+            questionElement.innerHTML = `
+                <h2 class="font-weight-bold text-primary">${questionData.question}</h2>                <ul>
+                    ${questionData.options.map((option, index) => `
+                    <li>
+                        <input type="radio" name="${questionData.id}" id="${index}">
+                        <label class="font-weight-bold">${option}</label>
+                    </li>
+                    `).join('')}
+                </ul>
+            `;
+            questionsContainer.innerHTML = '';
+            questionsContainer.appendChild(questionElement);
+            submitButton.style.display = 'block'
+        }
+
+        displayQuestion();
+
+        const nextButton = document.getElementById('next');
+		const backButton = document.getElementById('back');
+
+        nextButton.addEventListener('click', () => {
+            currentQuestionIndex++;
+            const nextQuestion = questionsData[`question${currentQuestionIndex}`];
+            if (nextQuestion) {
+                displayQuestion();
+            } else {
+				currentQuestionIndex--;
+            }
+        })
+
+		backButton.addEventListener('click', () => {
+            currentQuestionIndex--;
+            const nextQuestion = questionsData[`question${currentQuestionIndex}`];
+            if (nextQuestion) {
+                displayQuestion();
+            } else {
+				currentQuestionIndex++;
+            }
+        })
+
+		submitButton.addEventListener('click', () => {
+            const answerContainer = document.createElement('div');
+            const selectedOption = document.querySelector(`input[name="${questionsData[`question${currentQuestionIndex}`].id}"]:checked`);
+            if (selectedOption) {
+                const selectedOptionId = selectedOption.id;
+                const trueOptionId = questionsData[`question${currentQuestionIndex}`].trueOption;
+                const options = document.querySelectorAll(`input[name="${questionsData[`question${currentQuestionIndex}`].id}"]`)
+                if (parseInt(selectedOptionId) === trueOptionId) {
+                    selectedOption.parentNode.style.color = "blue";
+                } else {
+                    selectedOption.parentNode.style.color = "red";
+                    options[trueOptionId].parentNode.style.color = "blue";
+                }
+
+                questionsContainer.appendChild(answerContainer);
+                submitButton.style.display = 'none'
+            }
+        });
+
+
+    </script>
+</body>
+</html>
